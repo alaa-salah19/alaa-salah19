@@ -1,19 +1,5 @@
-<table>
-  <tr>
-    <td>
-
 # 💫 About Me:
-🚀 AI & Data Science specialist with hands-on experience in NLP and Computer Vision,  
-building scalable solutions for real-world problems.  
-💡 I enjoy learning new things, solving problems, and building useful solutions with AI.
-
-    </td>
-    <td>
-      <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-    </td>
-  </tr>
-</table>
-
+🚀 AI & Data Science specialist with hands-on experience in NLP and Computer Vision, building scalable solutions for real-world problems.<br>💡 I enjoy learning new things, solving problems, and building useful solutions with AI
 
 
 ## 🌐 Socials:
